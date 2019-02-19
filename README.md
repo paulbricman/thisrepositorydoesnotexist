@@ -5,6 +5,7 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Synthetic Faces: [thispersondoesnotexist.com](http://www.thispersondoesnotexist.com)
 - Synthetic AirBNB listings: [thisairbnbdoesnotexist.com](http://www.thisairbnbdoesnotexist.com)
 - Synthetic Cats: [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
+- More Synthetic Cats: [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
 
 # Open Source Projects
 ### Image Synthesis
