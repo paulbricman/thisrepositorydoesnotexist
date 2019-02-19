@@ -14,4 +14,4 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/paubric/awesome-doesnotexist/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/paubric/awesome-doesnotexist/blob/master/CONTRIBUTING.md) first.
