@@ -12,7 +12,6 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 ### Text Synthesis
 - **OpeanAI** Language Models are Unsupervised Multitask Learners [Repo](https://github.com/openai/gpt-2) [Samples](https://blog.openai.com/better-language-models/)
 
-# Contribute
-Branch, clone, add your resources, push, make pull request with relevant information.
-*Or*
-Send me resources over [Telegram](https://t.me/paubric).
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/paubric/awesome-doesnotexist/CONTRIBUTING.md) first.
