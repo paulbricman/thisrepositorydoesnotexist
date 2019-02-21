@@ -3,6 +3,7 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 
 # Sampling Websites
 - Synthetic Faces: [thispersondoesnotexist.com](http://www.thispersondoesnotexist.com)
+- Synthetic Faces Game: [whichfaceisreal.com](http://www.whichfaceisreal.com/)
 - Synthetic AirBNB listings: [thisairbnbdoesnotexist.com](http://www.thisairbnbdoesnotexist.com)
 - Synthetic Cats: [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
 - More Synthetic Cats: [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
