@@ -8,7 +8,6 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Synthetic Cats: [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
 - More Synthetic Cats: [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
 - Synthetic Anime-Style Female Faces: [thiswaifudoesnotexist.net](http://www.thiswaifudoesnotexist.net/index.html)
-- More Synthetic Anime-Style Female Faces: [obormot.net/demos/these-waifus-do-not-exist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
 
 # Open Source Projects
 ### Image Synthesis
