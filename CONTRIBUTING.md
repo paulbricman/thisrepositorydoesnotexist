@@ -5,7 +5,7 @@ Your contributions are always welcome!
 ## Guidelines
 
 * Add one link per Pull Request.
-* Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
+* Add the link: `* A short description: https://example.com`
     * Keep descriptions concise.
 * Add a section if needed.
     * Add the section description.
