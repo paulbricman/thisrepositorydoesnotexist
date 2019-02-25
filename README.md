@@ -2,12 +2,13 @@
 A curated list of awesome projects which use Machine Learning to generate synthetic content.
 
 # Sampling Websites
-- Synthetic Faces: [thispersondoesnotexist.com](http://www.thispersondoesnotexist.com)
-- Synthetic Faces Game: [whichfaceisreal.com](http://www.whichfaceisreal.com/)
-- Synthetic AirBNB listings: [thisairbnbdoesnotexist.com](http://www.thisairbnbdoesnotexist.com)
-- Synthetic Cats: [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
-- More Synthetic Cats: [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
-- Synthetic Anime-Style Female Faces: [thiswaifudoesnotexist.net](http://www.thiswaifudoesnotexist.net/index.html)
+- Synthetic Faces: [thispersondoesnotexist](http://www.thispersondoesnotexist.com)
+- Synthetic Faces Game: [whichfaceisreal](http://www.whichfaceisreal.com/)
+- Synthetic AirBNB listings: [thisairbnbdoesnotexist](http://www.thisairbnbdoesnotexist.com)
+- Synthetic Cats: [thiscatdoesnotexist](https://thiscatdoesnotexist.com/)
+- More Synthetic Cats: [thesecatsdonotexist](http://thesecatsdonotexist.com/)
+- Synthetic Anime-Style Female Faces: [thiswaifudoesnotexist](http://www.thiswaifudoesnotexist.net/index.html)
+- More Synthetic Anime-Style Female Faces: [thesewaifusdonotexist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
 
 # Open Source Projects
 ### Image Synthesis
