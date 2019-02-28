@@ -11,6 +11,9 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - More Synthetic Anime-Style Female Faces: [thesewaifusdonotexist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
 - Synthetic Poems: [botpoet](http://botpoet.com/vote/sign-post/)
 
+# Misc
+- Random Start-ups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
+
 # Open Source Projects
 ### Image Synthesis
 - **Nvidia Research** Progressive Growing of GANs for Improved Quality, Stability, and Variation [Repo](https://github.com/tkarras/progressive_growing_of_gans) [Samples](https://drive.google.com/drive/folders/1j6uZ_a6zci0HyKZdpDq9kSa8VihtEPCp)
