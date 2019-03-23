@@ -11,6 +11,7 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - More Synthetic Anime-Style Female Faces: [thesewaifusdonotexist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
 - Synthetic Poems: [botpoet](http://botpoet.com/vote/sign-post/)
 - Synthetic Resumes: [thisresumedoesnotexist](https://thisresumedoesnotexist.com/)
+- Synthetic Startups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
 
 # Misc
 - Random Start-ups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
