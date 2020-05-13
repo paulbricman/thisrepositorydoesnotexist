@@ -20,6 +20,8 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Synthetic Resumes: [thisresumedoesnotexist](https://thisresumedoesnotexist.com/)
 - Synthetic F.R.I.E.N.D.S Script: [thispersondoesnotexist.com/friends](https://thispersondoesnotexist.com/friends/)
 - Synthetic The Office Script: [thispersondoesnotexist.com/office](https://thispersondoesnotexist.com/office/)
+- Synthetic Words: [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/)
+
 
 ## Procedural
 - Random Start-ups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
