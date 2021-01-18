@@ -24,10 +24,6 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 ## Procedural
 - Random Start-ups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
 
-## Meta
-- This This Does Not Exist Does Not Exist: [thisganpagedoesnotexist](http://this-gan-page-does-not-exist.herokuapp.com/)
-
-
 # Open Source Projects
 ### Image Synthesis
 - **Nvidia Research** Progressive Growing of GANs for Improved Quality, Stability, and Variation [Repo](https://github.com/tkarras/progressive_growing_of_gans) [Samples](https://drive.google.com/drive/folders/1j6uZ_a6zci0HyKZdpDq9kSa8VihtEPCp)
