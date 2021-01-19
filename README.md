@@ -15,21 +15,14 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Interactive Generation of Art, Faces and More: [thispicturedoesnotexist](https://thispicturedoesnotexist.com)
 
 ## Text
-- Synthetic Poems: [botpoet](http://botpoet.com/vote/sign-post/)
 - Synthetic Lyrics: [theselyricsdonotexist](https://theselyricsdonotexist.com/)
 - Synthetic Quotes: [machinewisdom](https://machineswisdom.com/)
 - Synthetic Resumes: [thisresumedoesnotexist](https://thisresumedoesnotexist.com/)
-- Synthetic F.R.I.E.N.D.S Script: [thispersondoesnotexist.com/friends](https://thispersondoesnotexist.com/friends/)
-- Synthetic The Office Script: [thispersondoesnotexist.com/office](https://thispersondoesnotexist.com/office/)
 - Synthetic Words: [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/)
 
 
 ## Procedural
 - Random Start-ups: [thisstartupdoesnotexist](https://thisstartupdoesnotexist.com/)
-
-## Meta
-- This This Does Not Exist Does Not Exist: [thisganpagedoesnotexist](http://this-gan-page-does-not-exist.herokuapp.com/)
-
 
 # Open Source Projects
 ### Image Synthesis
