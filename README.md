@@ -8,6 +8,7 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Synthetic Faces Game: [whichfaceisreal](http://www.whichfaceisreal.com/)
 - Synthetic Rental Listings: [thisrentaldoesnotexist](https://thisrentaldoesnotexist.com/)
 - Synthetic Cats: [thiscatdoesnotexist](https://thiscatdoesnotexist.com/)
+- Synthetic Birds: [This Bird Does Not Exist](https://twitter.com/bird_not_exist)
 - More Synthetic Cats: [thesecatsdonotexist](http://thesecatsdonotexist.com/)
 - Synthetic Anime-Style Female Faces: [thiswaifudoesnotexist](http://www.thiswaifudoesnotexist.net/index.html)
 - More Synthetic Anime-Style Female Faces: [thesewaifusdonotexist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
