@@ -22,6 +22,7 @@ A curated list of awesome projects which use Machine Learning to generate synthe
 - Synthetic Quotes: [machinewisdom](https://machineswisdom.com/)
 - Synthetic Resumes: [thisresumedoesnotexist](https://thisresumedoesnotexist.com/)
 - Synthetic Words: [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/)
+- Synthetic Game Reviews: [thisgamereviewdoesnotexist.com](https://thisgamereviewdoesnotexist.com/)
 
 
 ## Procedural
